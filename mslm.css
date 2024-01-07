@@ -1,0 +1,326 @@
+ body {
+        min-height: 97vh;
+            overflow: auto;  
+             align-items: center;
+            justify-content: center;
+            background: linear-gradient(to    left top, #fff);  
+  font-family: 'Amiri', serif;
+font-family: 'Lateef', serif;
+font-family: 'Mada', sans-serif;
+font-family: 'Readex Pro', sans-serif;         
+              } 
+              .uu0{
+                  width: 100%;
+                  height: 6%;
+                  background: #eee;
+                  position: absolute; 
+                   left: 0%;
+                   top: 0%; 
+              }
+              .uu1{
+                  width: 10%;
+                  height: 80%;
+                  background: #000000;
+                  border-radius: 100%;
+                  position: absolute; 
+                   left: 88%;
+                   top: 4%; 
+              }
+              .uu2{
+                  width: 100%;
+                  height: 100%;
+                  border-radius: 100%;
+              }
+              .uu3{
+               color: #000000;
+                font-size: 19px;  
+                position: absolute; 
+                left: 38%;
+                top: -21%;         
+              }
+              .uu4{
+                  width: 10%;
+                  height: 75%;
+                  background: #transparent;
+                  position: absolute; 
+                   left: 2%;
+                   top: 6%;  
+              }
+              .uu5{
+                  width: 100%;
+                  height: 100%;
+                  border-radius: 0%;
+              }
+             .p1{
+                 width: 100%;
+                 height: 93%;
+                 overflow: auto;  
+                 display: flex;
+                 background: #transparent;
+                 position: absolute; 
+                   left: 0%;
+                   top: 5.5%; 
+             }  
+             .p2{
+                 width: 90%;
+                 height: 26%;
+                 background: #transparent;
+                 position: absolute;
+                 left: 5%;
+                 top: 2%;
+             }    
+              .q1{
+                 width: 100%;
+                 height: 75%;
+                 background: #transparent;
+                 position: absolute;
+                 left: 0%;
+                 top: 0%;
+             } 
+             .imgv1{
+                 width: 100%;
+                 height: 100%;
+             }   
+             .q2{
+                 width: 12%;
+                 height: 21%;
+                 background: #7040ff;
+                 border-radius: 100%;
+                 position: absolute;
+                 left: 87%;
+                 top: 77%;
+             } 
+             .imgv2{
+                 width: 100%;
+                 height: 100%;
+                 border-radius: 100%;
+             }
+             .q3{
+                 width: 85%;
+                 height: 20%;
+                 background: #ffc700;
+                 position: absolute;
+                 left: 1%;
+                 top: 77%;
+             }
+             .q4{
+                color: #000000;
+                font-size: 16px;  
+                position: absolute; 
+                left: 2%;
+                top: 70%;           
+             } 
+             .q5{
+              color: #000000;
+                font-size: 14px;  
+                position: absolute; 
+                left: 33%;
+                top: 79%;           
+             }
+              .w2{
+                 width: 90%;
+                 height: 26%;
+                 background: #transparent;
+                 position: absolute;
+                 left: 5%;
+                 top: 30%;
+             }      
+              .w3{
+                 width: 90%;
+                 height: 26%;
+                 background: #transparent;
+                 position: absolute;
+                 left: 5%;
+                 top: 60%;
+             }      
+              .w4{
+                 width: 90%;
+                 height: 26%;
+                 background: #transparent;
+                 position: absolute;
+                 left: 5%;
+                 top: 90%;
+             }      
+             .loader {
+  position: relative;
+  width: 81.5%;
+  height: 15%;
+  margin-bottom: 10px;
+  border: 1px solid #fff;
+  padding: 15px;
+  background-color: #fff;
+  overflow: hidden;
+  position: absolute;
+                 left: 5%;
+                 top: 2%;
+}
+
+.loader:after {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: linear-gradient(110deg, rgba(227, 227, 227, 0) 0%, rgba(227, 227, 227, 0) 40%, rgba(227, 227, 227, 0.5) 50%, rgba(227, 227, 227, 0) 60%, rgba(227, 227, 227, 0) 100%);
+  animation: gradient-animation_2 1.2s linear infinite;
+}
+
+.loader .wrapper {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+
+.loader .wrapper > div {
+  background-color: #cacaca;
+}
+
+.loader .circle {
+position: absolute;
+  top: 0%;
+  left: 0%;
+  width: 100%;
+  height: 10%;
+  
+}
+
+.loader .button {
+  display: inline-block;
+  height: 100%;
+  width: 100%;
+}
+
+.loader .line-1 {
+  position: absolute;
+  top: 15%;
+  left: 0%;
+  height: 10%;
+  width: 92%;
+}
+
+.loader .line-2 {
+  position: absolute;
+  top: 34%;
+  left: 0%;
+  height: 10%;
+  width: 100%;
+}
+
+.loader .line-3 {
+  position: absolute;
+  top: 57%;
+  left: 0%;
+  height: 10%;
+  width: 92%;
+}
+
+.loader .line-4 {
+  position: absolute;
+  top: 80%;
+  left: 0%;
+  height: 10%;
+  width: 100%;
+}
+
+@keyframes gradient-animation_2 {
+  0% {
+    transform: translateX(-100%);
+  }
+
+  100% {
+    transform: translateX(100%);
+  }
+} 
+.t1 {
+  position: relative;
+  width: 81.5%;
+  height: 15%;
+  margin-bottom: 10px;
+  border: 1px solid #fff;
+  padding: 15px;
+  background-color: #fff;
+  overflow: hidden;
+  position: absolute;
+                 left: 5%;
+                 top: 2%;
+}
+
+.t1:after {
+  content: "";
+  position: absolute;
+  width: 150%;
+  height: 150%;
+  top: 0;
+  left: 0;
+  background: linear-gradient(110deg, rgba(227, 227, 227, 0) 0%, rgba(227, 227, 227, 0) 40%, rgba(227, 227, 227, 0.5) 50%, rgba(227, 227, 227, 0) 60%, rgba(227, 227, 227, 0) 100%);
+  animation: gradient-animation_2 1.2s linear infinite;
+}
+
+.t1 .t2 {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+
+.t1 .t2 > div {
+  background-color: #cacaca;
+}
+
+.t1 .t3 {
+position: absolute;
+  top: 0%;
+  left: 0%;
+  width: 100%;
+  height: 10%;
+  
+}
+
+.t1 .button {
+  display: inline-block;
+  height: 100%;
+  width: 100%;
+}
+
+.t1 .line-11 {
+  position: absolute;
+  top: 15%;
+  left: 0%;
+  height: 10%;
+  width: 92%;
+}
+
+.t1 .line-22 {
+  position: absolute;
+  top: 34%;
+  left: 0%;
+  height: 10%;
+  width: 100%;
+}
+
+.t1 .line-33 {
+  position: absolute;
+  top: 57%;
+  left: 0%;
+  height: 10%;
+  width: 92%;
+}
+
+.t1 .line-44 {
+  position: absolute;
+  top: 80%;
+  left: 0%;
+  height: 10%;
+  width: 100%;
+}
+
+@keyframes gradient-animation_2 {
+  0% {
+    transform: translateX(-100%);
+  }
+
+  100% {
+    transform: translateX(100%);
+  }
+} 
+                 
