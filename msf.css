@@ -630,21 +630,21 @@ font-family: 'Readex Pro', sans-serif;
                color: #645c5c;
                 font-size: 17px;  
                 position: absolute; 
-                left: 2%;
+                left: 0%;
                 top: -23%;      
                }
                .hh31{
                color: #645c5c;
                 font-size: 17px;  
                 position: absolute; 
-                left: 2%;
+                left: 20%;
                 top: -23%;      
                }
                .hh32{
                color: #645c5c;
                 font-size: 17px;  
                 position: absolute; 
-                left: 18%;
+                left: 3%;
                 top: -23%;      
                }
                .hh33{
@@ -670,9 +670,9 @@ font-family: 'Readex Pro', sans-serif;
                }
                .hh36{
                color: #645c5c;
-                font-size: 17px;  
+                font-size: 16px;  
                 position: absolute; 
-                left: 2%;
+                left: 0%;
                 top: -23%;      
                }
                .hh37{
@@ -707,14 +707,14 @@ font-family: 'Readex Pro', sans-serif;
                color: #645c5c;
                 font-size: 17px;  
                 position: absolute; 
-                left: 0%;
+                left: 17%;
                 top: -23%;      
                }
                  .hh411{
                color: #645c5c;
                 font-size: 17px;  
                 position: absolute; 
-                left: 15%;
+                left: 0%;
                 top: -23%;      
                }
                 .hh42{
@@ -799,7 +799,7 @@ font-family: 'Readex Pro', sans-serif;
                 font-weight:bold;
                 font-size: 16px; 
                 position: absolute; 
-                left: 25%;
+                left: 15%;
                 top: 20%;          
                }
                .pp11{
@@ -839,7 +839,7 @@ font-family: 'Readex Pro', sans-serif;
                 font-weight:bold;
                 font-size: 16px; 
                 position: absolute; 
-                left: 17%;
+                left: 23%;
                 top: 20%;          
                }
                 .pp16{
@@ -871,7 +871,7 @@ font-family: 'Readex Pro', sans-serif;
                 font-weight:bold;
                 font-size: 16px; 
                 position: absolute; 
-                left: 30%;
+                left: 10%;
                 top: 20%;          
                }
                 .pp20{
@@ -903,7 +903,7 @@ font-family: 'Readex Pro', sans-serif;
                 font-weight:bold;
                 font-size: 16px; 
                 position: absolute; 
-                left: 20%;
+                left: 25%;
                 top: 20%;          
                }
                 .pp24{
@@ -911,7 +911,7 @@ font-family: 'Readex Pro', sans-serif;
                 font-weight:bold;
                 font-size: 16px; 
                 position: absolute; 
-                left: 20%;
+                left: 5%;
                 top: 20%;          
                }
                .pp25{
@@ -927,7 +927,7 @@ font-family: 'Readex Pro', sans-serif;
                 font-weight:bold;
                 font-size: 16px; 
                 position: absolute; 
-                left: 5%;
+                left: 15%;
                 top: 20%;          
                }
                .pp27{
@@ -935,7 +935,7 @@ font-family: 'Readex Pro', sans-serif;
                 font-weight:bold;
                 font-size: 16px; 
                 position: absolute; 
-                left: 30%;
+                left: 25%;
                 top: 20%;          
                }
                 .pp28{
@@ -951,7 +951,7 @@ font-family: 'Readex Pro', sans-serif;
                 font-weight:bold;
                 font-size: 16px; 
                 position: absolute; 
-                left: 20%;
+                left: 23%;
                 top: 20%;          
                }
                .pp30{
@@ -959,7 +959,7 @@ font-family: 'Readex Pro', sans-serif;
                 font-weight:bold;
                 font-size: 16px; 
                 position: absolute; 
-                left: 30%;
+                left: 5%;
                 top: 20%;          
                }
                .pp31{
@@ -975,7 +975,7 @@ font-family: 'Readex Pro', sans-serif;
                 font-weight:bold;
                 font-size: 16px; 
                 position: absolute; 
-                left: 5%;
+                left: 15%;
                 top: 20%;          
                }
                .pp33{
@@ -1007,7 +1007,7 @@ font-family: 'Readex Pro', sans-serif;
                 font-weight:bold;
                 font-size: 16px; 
                 position: absolute; 
-                left: 20%;
+                left: 5%;
                 top: 20%;          
                }
                .pp37{
@@ -1015,7 +1015,7 @@ font-family: 'Readex Pro', sans-serif;
                 font-weight:bold;
                 font-size: 16px; 
                 position: absolute; 
-                left: 20%;
+                left: 4%;
                 top: 20%;          
                }
                .pp38{
@@ -1031,7 +1031,7 @@ font-family: 'Readex Pro', sans-serif;
                 font-weight:bold;
                 font-size: 16px; 
                 position: absolute; 
-                left: 2%;
+                left: 0%;
                 top: 20%;          
                }
                .pp40{
@@ -1039,7 +1039,7 @@ font-family: 'Readex Pro', sans-serif;
                 font-weight:bold;
                 font-size: 16px; 
                 position: absolute; 
-                left: 10%;
+                left: 8%;
                 top: 20%;          
                }
                .pp41{
@@ -1047,7 +1047,7 @@ font-family: 'Readex Pro', sans-serif;
                 font-weight:bold;
                 font-size: 16px; 
                 position: absolute; 
-                left: 0%;
+                left: 20%;
                 top: 20%;          
                }
                .pp42{
@@ -1055,7 +1055,7 @@ font-family: 'Readex Pro', sans-serif;
                 font-weight:bold;
                 font-size: 16px; 
                 position: absolute; 
-                left: 5%;
+                left: 20%;
                 top: 20%;          
                }
                .pp43{
@@ -1067,3 +1067,4 @@ font-family: 'Readex Pro', sans-serif;
                 top: 20%;          
                }
     
+  
